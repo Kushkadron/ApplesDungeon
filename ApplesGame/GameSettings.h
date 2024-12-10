@@ -15,6 +15,7 @@ namespace ApplesGame
 	constexpr int NUM_APPLES = 20;
 	constexpr int NUM_ROCKS = 30;
 	constexpr int SIZE_LEADERBOARD = 5;
+	constexpr int SINE_LEADERBOARD = 5;
 	constexpr unsigned int SCREEN_WIDTH = 1200;
 	constexpr unsigned int SCREEN_HEGHT = 1000;
 	constexpr char INFINITE_MODE = 0b00000001;
